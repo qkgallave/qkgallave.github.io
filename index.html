@@ -1,6 +1,8 @@
 <h1 align="center">Final Project (CPE 232)</h1>
 <h3 align="center">Final Project submission by Kenneth Gabriel A. Llave CPE31S4</h3>
 
+<p><strong>Prelim Period:</strong></p>
+
 - Hands-on Activity 1 [Creating Virtual Machines](https://github.com/qkgallave/Act_1.git)
 
 - Hands-on Activity 2 [SSH Key-Based Authentication and GIT Setup](https://github.com/qkgallave/Act_2.git)
@@ -13,6 +15,8 @@
 
 - Prelim Examination [Major Examination](https://github.com/qkgallave/llave_PrelimExam.git)
 
+<p><strong>Midterm Period:</strong></p>
+
 - Hands-on Activity 6 [Targeting specific nodes](https://github.com/qkgallave/Act_6.git)
 
 - Hands-on Activity 7 [Managing files and Creating Roles in Ansible](https://github.com/qkgallave/Act_7.git)
@@ -24,6 +28,8 @@
 - Hands-on Activity 10 [Install, Configure and Manage Enterprise Log Monitoring via Ansible](https://github.com/qkgallave/Act_10.git)
 
 - Midterm Exam [Major Examination](https://github.com/qkgallave/CPE_MIDEXAM_LLAVE.git)
+
+<p><strong>Final Period:</strong></p>
 
 - Hands-on Activity 11 [Containerization](https://github.com/qkgallave/Act_11.git)
 
