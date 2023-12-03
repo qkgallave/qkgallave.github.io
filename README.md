@@ -1,4 +1,5 @@
-<h1 align="center">qkgallave.github.io</h1>
+<h1 align="center"><strong>Kenneth Gabriel A. Llave</strong></h1>
+<h1 align="center">CPE31S4</h1>
 <h2>Final project website using  html</h2>
 
 <h1 align="center">Final Project (CPE 232)</h1>
