@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Kenneth Gabriel A. Llave</strong></h1>
 <h1 align="center">CPE31S4</h1>
-<h2>Final project website using  html</h2>
+<h2 align="center">Final project website using  html</h2>
 
 <h1 align="center">Final Project (CPE 232)</h1>
 <h3 align="center">Final Project submission by Kenneth Gabriel A. Llave CPE31S4</h3>
